@@ -7,4 +7,7 @@ public class Main {
 
     }
 
+    public void hej (){
+        int hej = 0;
+    }
 }
